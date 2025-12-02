@@ -5,7 +5,7 @@ It enables users to add tasks, visualize progress, and drag & drop tasks across 
 
 📸 Screenshot
 
-Add the screenshot to your repository under:
+
 <img width="1919" height="1011" alt="Screenshot 2025-12-02 211840" src="https://github.com/user-attachments/assets/8f35ec45-cee2-4ebc-b42a-82b17f9350d6" />
 
 ✨ Features
