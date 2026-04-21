@@ -322,7 +322,7 @@ class KanbanBoard extends ConsumerWidget {
             ),
             const SizedBox(height: 16),
             DropdownButtonFormField<String>(
-              value: selectedColumnId,
+              initialValue: selectedColumnId,
               items: board
                   .map(
                     (col) =>
